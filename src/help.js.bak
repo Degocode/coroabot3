@@ -2,10 +2,9 @@ const help = (prefix) => {
 	return `
 ╔══✪〘 INFO 〙✪══
 ║
-╠➥ 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓
-╠➥ *3.2*
-╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗𝐷𝐴𝑅𝐾⃖  ☔
-╠➥ *wa.me/+5522996215481*
+╠➥ Lendaria coroa
+╠➥ 𝐃𝐎𝐍𝐎: André*
+╠➥ *wa.me/+5568999068797*
 ╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ╠══✪〘 NOVIDADES 〙✪══
@@ -205,7 +204,7 @@ const help = (prefix) => {
 ║157 *${prefix}setnomebot*
 ║158 *${prefix}meme*
 ║
-╠══✪〘 INTERATIVOS 〙✪══
+╠══✪〘 MSG BOT 〙✪══
 ║
 ╠══NOTA »
 ║Mandar a msg sem o prefixo
@@ -220,16 +219,10 @@ const help = (prefix) => {
 ║
 ╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
 ║
-║ *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
-║ *INSTA: th.darkys*
-║ *WPP: wa.me/+5521997123716*
-║ *YOUTUBE: https://bit.ly/3qAjeNz*
+║ *NOME: André Noah*
+║ *WPP: wa.me/+5568999068797*
 ║
-║  *"Peita ou respeita 🐊🚩*
-║  *"kibadores, vão se fuder"*
-║
-║
-╚═〘 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓 〙`
+╚═〘 André Noah 〙`
 }
 
 exports.help = help
